@@ -3,8 +3,6 @@ library(tidyr)
 library(dplyr)
 library(lubridate)
 
-setwd("~/Cap/03 - Support/04 - Knowledge/30 - Analytics/17 - Data Science John Hopskins/04 - Data exploratory analysis/01 - Week 1")
-
 
 ## Download the data and unzip the file ---------
 file_url <- "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
